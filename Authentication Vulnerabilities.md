@@ -58,7 +58,7 @@ Como falado acima é extremamente importante que as aplicações exijam uma pol�
 **Ataques de força bruta em nomes de usuário:**<br>
 Os ataques de força bruta em nomes de usuário são mais complicados, pois, você precisará ter um conhecimento prévio sobre a vítima que deseja atacar para montar uma lista com possíveis nomes de usuário que sua vítima utiliza. No caso de um administrador isso se torna um pouco mais fácil caso tenham e-mails de contato no conteúdo do site, ou se a aplicação utilize usuários comuns como "Administrador" ou "Admin" para realizar login em seus sistemas administrativos. Ainda há outros métodos para descobrir o nomes de usuários, esses métodos serão apresentados ao decorrer do artigo.
 
-**Ataques de força bruta em senhas:** 
+**Ataques de força bruta em senhas:**<br>
 Os ataques de força bruta em senhas requerem uma boa atenção e inteligencia do atacante, para um ataque bem-sucedido deve-se observar se a aplicação: exige uma política de senha forte, teve credenciais vazadas (o que pode se tornar uma wordlist) e/ou gera senhas (padrões) para os usuários. O maior vetor para um ataque de força bruta é o comportamento humano, geralmente usuários criam senhas em que possam se lembrar, com basse nisso que as wordlists são criadas. Por exemplo, aqui estão alguns dos dados mais comuns que são inseridos em uma senha:
 
 - Datas de nascimento;
